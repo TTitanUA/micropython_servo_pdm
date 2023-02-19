@@ -23,7 +23,7 @@ setup(
 	long_description=long_description,
 	long_description_content_type="text/markdown",
 	license="MIT",
-	keywords=["micropython", "raspberry pi pico", "servo continuous", "servo pdm"],
+	keywords=["micropython", "raspberry pi pico", "servo", "servo pdm", "SG90"],
 	platforms="micropython raspberry pi pico",
 	url="https://github.com/TTitanUA/micropython_servo_pdm",
 	packages=[
